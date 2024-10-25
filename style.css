@@ -13,3 +13,17 @@
     --white: white;
     --grey: grey;   
 }
+
+.card > h2, img {
+    cursor: pointer;
+}
+
+.card img {
+    width: 300px;
+    height: 200px;
+}
+
+aside span {
+    cursor: pointer;
+}
+
